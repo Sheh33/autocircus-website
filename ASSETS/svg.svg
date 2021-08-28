@@ -1,0 +1,11 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Poppins'" font-size="24" id="svg_3" y="236" x="133" stroke-width="0" stroke="#000" fill="#000000">AUTO</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Poppins'" font-size="24" id="svg_4" y="256" x="158" stroke-width="0" stroke="#000" fill="#ff0000">CIRCUS</text>
+  <line id="svg_5" y2="224" x2="279.70077" y1="224" x1="208" stroke="#000" fill="none"/>
+  <line id="svg_6" y2="251" x2="79" y1="251" x1="147" stroke="#000" fill="none"/>
+  <line id="svg_7" y2="313" x2="190" y1="313" x1="189" stroke="#000" fill="none"/>
+ </g>
+</svg>
